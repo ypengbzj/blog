@@ -33,7 +33,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   name = "Home"
   weight = 10
   identifier = "home"
-  url = "/"
+  url = "/post/"
 [[menu.main]]
   name = "Archives"
   weight = 20

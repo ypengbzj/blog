@@ -2,6 +2,4 @@
 	path = public
 	url = https://github.com/ypengbzj/ypengbzj.github.io.git
 	branch = master
-[submodule "themes/bilberry-hugo-theme"]
-	path = themes/bilberry-hugo-theme
-	url = https://github.com/Lednerb/bilberry-hugo-theme.git
+
