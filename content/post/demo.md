@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "Demo"
+date: 2020-08-02T18:58:36+08:00
+lastmod: 2020-08-02T18:58:36+08:00
 draft: true
 keywords: []
 description: ""
@@ -40,4 +40,7 @@ sequenceDiagrams:
 
 ---
 
+# 标题1
+* 无序列表1
+* 无序列表2
 <!--more-->
